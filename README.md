@@ -1,34 +1,82 @@
-<h1 align="center">Hi 👋, I'm Subradeep</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=subradeepdas&label=Profile%20views&color=0e75b6&style=flat" alt="subradeepdas" /> </p>
+# 👋 Hi, I'm Subradeep Das
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subradeepdas" alt="subradeepdas" /></a> </p>
+📍 Agartala, Tripura, India  
+📧 [subradeepdas24@gmail.com](mailto:subradeepdas24@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/subradeepdas02/) | [GitHub](https://github.com/trek2terminal)
 
-- 🌱 I’m currently learning **HPC, Edge AI, IRCTC Bot Detection, and Tatkal Demand Prediction**
+---
 
-- 👨‍💻 All of my projects are available at [https://github.com/subradeepdas](https://github.com/subradeepdas)
+## 🚀 About Me
 
-- 📫 How to reach me **subradeep.das@example.com**
+I'm an AI enthusiast and developer focused on solving real-world problems with machine learning, deep learning, and data-driven systems. I enjoy building intelligent applications, especially in the fields of behavioral analysis, computer vision, and digital signal processing.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/subradeepdas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subradeepdas" height="30" width="40" /></a>
-</p>
+- 👨‍🎓 **B.Tech in Electronics & Communication Engineering**  
+  North-Eastern Hill University (NEHU), Shillong — CGPA: 7.37
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/> </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-</p>
+- 📚 **Advanced HPC-AI Certification (Pursuing)**  
+  C-DAC, Guwahati (Mar 2025 – Aug 2025)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subradeepdas&show_icons=true&locale=en&layout=compact" alt="subradeepdas" /></p>
+- 🛠️ I specialize in combining core electronics with modern ML/DL techniques.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=subradeepdas&show_icons=true&locale=en" alt="subradeepdas" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subradeepdas&" alt="subradeepdas" /></p>
+## 🔧 Skills
+
+**Languages:** Python, R, Java, SQL  
+**Machine Learning:** scikit-learn, XGBoost, Regression, Classification, Clustering  
+**Deep Learning:** TensorFlow, PyTorch, Keras, CNN, RNN, LSTM, Transfer Learning  
+**Data Analytics:** Pandas, NumPy, dplyr, tidyr, Statistical Analysis  
+**Visualization:** Matplotlib, Seaborn, ggplot2, Plotly  
+**Tools & Platforms:** Jupyter, Colab, Kaggle, VS Code  
+**Others:** Linux, Bash
+
+---
+
+## 🧠 Projects
+
+### 🛠️ Higher-Order Chebyshev Filter Design (Feb – July 2024)
+- Designed a 7th-order optical filter using **Mach-Zehnder Interferometers**.
+- Simulated with **Lumerical Interconnect**, layouted with **KLayout**, fabricated on SOI.
+- Applied **Monte Carlo simulation** to evaluate fabrication variability.
+
+### 🧪 IRCTC Bot Detection System (Personal Project)
+- Developed a bot detection login system using **behavioral biometrics**.
+- Built with **Flask**, **TensorFlow**, and **custom feature extraction** (mouse, scroll, typing).
+
+### 🎟️ Ticket Confirmation Predictor
+- ML model predicting IRCTC ticket confirmation using **Random Forest** and **booking metadata**.
+- Optimized and deployed in a multi-model Flask web app.
+
+---
+
+## 📜 Certifications
+
+- 🧠 **Quantum Computing** – C-DAC Hyderabad (Jun 2025)  
+- 🌾 **AI/ML for Crop Acreage Mapping** – IIRS, ISRO (Apr 2025)  
+- 🛰️ **Geodata Processing with ML** – IIRS, ISRO (Mar 2025)  
+- 💼 **TCS iON Career Edge – Young Professional** (Feb 2025)
+
+---
+
+## 🏅 Extra-Curricular
+
+- 👨‍🔬 **Member**, Lightwave Communication Laboratory – NEHU  
+  Organized photonics workshops, worked on real-world research under Prof. Subhash Arya.
+
+---
+
+## 🎯 Hobbies
+
+🌏 Traveling | 🍳 Cooking | 🧩 Learning new languages
+
+---
+
+## 📊 GitHub Stats
+
+![Subradeep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=trek2terminal&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trek2terminal&layout=compact&theme=radical)
+
+---
+
+⭐ *Thanks for visiting! Connect with me to collaborate or chat about tech, AI, or research.*
