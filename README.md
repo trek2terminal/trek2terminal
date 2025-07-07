@@ -13,6 +13,14 @@
 
 ---
 
+<p align="center">
+  <a href="https://trek2terminal.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/%F0%9F%8C%90%20Visit%20My%20Portfolio-Click%20Here-blueviolet?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio Badge"/>
+  </a>
+</p>
+
+---
+
 ## 🧑‍💻 Who Am I?
 
 ✨ I’m **Subradeep Das**, a passionate **AI developer**, **ECE graduate**, and **behavioral data explorer** from Agartala, Tripura.  
@@ -25,11 +33,11 @@
 
 ## 📌 Quick Facts About Me
 
-- 💻 Pythonista with strong foundations in AI/ML
-- 🧠 Self-learner, curious explorer & systems thinker
-- 🛠️ Fluent in turning ideas into full-stack solutions
-- 🌎 Trilingual: English, Hindi, Bengali
-- 🎯 Currently exploring Quantum Computing and real-time AI applications
+- 💻 Pythonista with strong foundations in AI/ML  
+- 🧠 Self-learner, curious explorer & systems thinker  
+- 🛠️ Fluent in turning ideas into full-stack solutions  
+- 🌎 Trilingual: English, Hindi, Bengali  
+- 🎯 Currently exploring Quantum Computing and real-time AI applications  
 
 ---
 
@@ -46,21 +54,21 @@
 ## 💼 My Projects (Real, Research & Passion)
 
 ### 🔐 IRCTC Bot Detection System  
-Detects human, bot, and human-like bots using:
-- 🧠 Behavioral biometrics (mouse, scroll, typing speed)
-- 🔍 Advanced feature engineering
-- 🌐 Flask + TensorFlow + custom front-end
+Detects human, bot, and human-like bots using:  
+- 🧠 Behavioral biometrics (mouse, scroll, typing speed)  
+- 🔍 Advanced feature engineering  
+- 🌐 Flask + TensorFlow + custom front-end  
 
 ### 🎟️ IRCTC Ticket Confirmation Predictor  
-Predicts whether a railway ticket will confirm or not using:
-- 📊 Random Forest algorithm with booking feature insights
-- 🚂 Domain-specific preprocessing and evaluation
-- 📈 Realistic dataset and web-based API integration
+Predicts whether a railway ticket will confirm or not using:  
+- 📊 Random Forest algorithm with booking feature insights  
+- 🚂 Domain-specific preprocessing and evaluation  
+- 📈 Realistic dataset and web-based API integration  
 
-### 🧪 Optical Chebyshev Filter Design (Academic Research)
-- 🧬 Designed 7th-order filter using Mach-Zehnder Interferometers
-- 🧪 Simulated with Lumerical + fabricated on SOI using EBL
-- 📡 Relevant in telecom, medical electronics, and photonics
+### 🧪 Optical Chebyshev Filter Design (Academic Research)  
+- 🧬 Designed 7th-order filter using Mach-Zehnder Interferometers  
+- 🧪 Simulated with Lumerical + fabricated on SOI using EBL  
+- 📡 Relevant in telecom, medical electronics, and photonics  
 
 ---
 
@@ -92,10 +100,10 @@ Predicts whether a railway ticket will confirm or not using:
 
 ## 🔭 Currently Learning
 
-- ⚛️ Quantum Computing & QML
-- ⛓️ Model retraining with real-time behavior logs
-- 🧠 Few-shot learning & transformer models
-- 🚀 Deploying full-stack ML apps with scalable architecture
+- ⚛️ Quantum Computing & QML  
+- ⛓️ Model retraining with real-time behavior logs  
+- 🧠 Few-shot learning & transformer models  
+- 🚀 Deploying full-stack ML apps with scalable architecture  
 
 ---
 
@@ -115,7 +123,7 @@ Predicts whether a railway ticket will confirm or not using:
 - 🎧 Music while debugging is sacred  
 - 📷 Passion for capturing landscapes & AI art  
 - 🍳 Cooking experimental fusion recipes  
-- 🚀 Love creating systems that adapt like humans
+- 🚀 Love creating systems that adapt like humans  
 
 ---
 
@@ -129,9 +137,6 @@ Predicts whether a railway ticket will confirm or not using:
   <img src="https://github-readme-stats.vercel.app/api?username=trek2terminal&show_icons=true&theme=radical&hide_border=true" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trek2terminal&layout=compact&theme=radical&hide_border=true" width="48%"/>
 </p>
-
-
-
 
 ---
 
