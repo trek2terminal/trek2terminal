@@ -1,145 +1,126 @@
-<!-- README.md for trek2terminal -->
+<div align="center">
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Subradeep+Das+%F0%9F%91%8B;AI+Enthusiast+%E2%9A%9B%EF%B8%8F;Behavioral+Data+Engineer+%F0%9F%93%8A;ECE+Graduate+%F0%9F%93%8C;Problem+Solver+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB+Lifelong+Learner" alt="Typing SVG" />
-</h1>
+# Subradeep Das
 
-<p align="center">
-  <a href="mailto:subradeepdas24@gmail.com"><img src="https://img.shields.io/badge/Email-subradeepdas24@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/subradeepdas02/"><img src="https://img.shields.io/badge/LinkedIn-Subradeep%20Das-blue?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/trek2terminal"><img src="https://img.shields.io/github/followers/trek2terminal?label=Follow&style=social" /></a>
-  <img src="https://komarev.com/ghpvc/?username=trek2terminal&style=flat-square&color=blue" alt="visitor counter"/>
-</p>
+**AI/ML Engineer &nbsp;·&nbsp; Technical Project Coordinator &nbsp;·&nbsp; ECE Graduate**
 
----
+[![Portfolio](https://img.shields.io/badge/Portfolio-trek2terminal.github.io-00d4ff?style=flat-square&labelColor=070d1a)](https://trek2terminal.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-subradeepdas02-0077b5?style=flat-square&logo=linkedin&logoColor=white&labelColor=070d1a)](https://www.linkedin.com/in/subradeepdas02/)
+[![Email](https://img.shields.io/badge/Email-subradeepdas24@gmail.com-00d4ff?style=flat-square&logo=gmail&logoColor=white&labelColor=070d1a)](mailto:subradeepdas24@gmail.com)
+[![GitHub followers](https://img.shields.io/github/followers/trek2terminal?style=flat-square&logo=github&labelColor=070d1a&color=7c3aed)](https://github.com/trek2terminal)
 
-<p align="center">
-  <a href="https://trek2terminal.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/%F0%9F%8C%90%20Visit%20My%20Portfolio-Click%20Here-blueviolet?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio Badge"/>
-  </a>
-</p>
+</div>
 
 ---
 
-## 🧑‍💻 Who Am I?
+## Overview
 
-✨ I’m **Subradeep Das**, a passionate **AI developer**, **ECE graduate**, and **behavioral data explorer** from Agartala, Tripura.  
-🎓 B.Tech in **Electronics & Communication Engineering** from **NEHU Shillong**, and currently pursuing **Advanced HPC-AI Certification** at **C-DAC Guwahati**.  
-🌱 My work merges **signal processing**, **human-computer interaction**, and **ML/DL techniques** into real-world tools.
+I am an AI/ML engineer and technical project coordinator based in Agartala, Tripura. My background is Electronics and Communication Engineering (NEHU Shillong), extended by Advanced HPC-AI training at C-DAC Guwahati and applied project experience at Codebucket Solutions.
 
-> 🔍 I love crafting systems that detect bots, predict patterns, and analyze subtle human behaviors using code, logic, and creativity.
+My focus is on the full path from problem framing to deployment: understanding what a system needs to do, selecting and evaluating the right model or architecture, building with documentation and reproducibility in mind, and coordinating delivery across technical and non-technical stakeholders. I am particularly interested in ML systems that operate on behavioral data, geospatial signals, and research-grade engineering constraints.
 
 ---
 
-## 📌 Quick Facts About Me
+## Technical Stack
 
-- 💻 Pythonista with strong foundations in AI/ML  
-- 🧠 Self-learner, curious explorer & systems thinker  
-- 🛠️ Fluent in turning ideas into full-stack solutions  
-- 🌎 Trilingual: English, Hindi, Bengali  
-- 🎯 Currently exploring Quantum Computing and real-time AI applications  
-
----
-
-## 🧰 Tech & Tools I Use
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,r,sql,linux,bash,git,vscode,jupyter,html,css,js" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,keras,scikit-learn,numpy,pandas,matplotlib,seaborn,plotly,fastapi,flask" />
-</p>
+```text
+Languages        Python · R · SQL · Java · Bash
+ML / Deep        TensorFlow · PyTorch · Keras · scikit-learn · XGBoost
+                 CNN · RNN/LSTM · Transfer Learning · Model Optimization
+Data             Pandas · NumPy · Matplotlib · Seaborn · Plotly · ggplot2
+Deployment       Flask · Docker · Nginx · Linux · Git
+Research         Lumerical · KLayout · Silicon Photonics · MATLAB
+Domain           HPC · Quantum Computing · Remote Sensing · Signal Processing
+```
 
 ---
 
-## 💼 My Projects (Real, Research & Passion)
+## Selected Work
 
-### 🔐 IRCTC Bot Detection System  
-Detects human, bot, and human-like bots using:  
-- 🧠 Behavioral biometrics (mouse, scroll, typing speed)  
-- 🔍 Advanced feature engineering  
-- 🌐 Flask + TensorFlow + custom front-end  
+### Hybrid IRCTC Bot-Detection & Train Search System
+*Mar 2025 – Aug 2025*
 
-### 🎟️ IRCTC Ticket Confirmation Predictor  
-Predicts whether a railway ticket will confirm or not using:  
-- 📊 Random Forest algorithm with booking feature insights  
-- 🚂 Domain-specific preprocessing and evaluation  
-- 📈 Realistic dataset and web-based API integration  
+A production-style ML application combining behavioral biometrics with a TensorFlow DNN classifier to distinguish humans from automated traffic in real time. Layered on a train-search interface with demand heatmaps, punctuality scoring, and a Random Forest model estimating confirmation probability. Built with auto-retraining pipelines, privacy-aware telemetry, and admin audit logging.
 
-### 🧪 Optical Chebyshev Filter Design (Academic Research)  
-- 🧬 Designed 7th-order filter using Mach-Zehnder Interferometers  
-- 🧪 Simulated with Lumerical + fabricated on SOI using EBL  
-- 📡 Relevant in telecom, medical electronics, and photonics  
+`Python` `TensorFlow` `scikit-learn` `Flask` `Docker` `Nginx`
+
+[View Repository](https://github.com/trek2terminal/IRCTC_Bot_Detection_And_Demand_Prediction)
 
 ---
 
-## 📜 Licenses & Certifications
+### Design & Fabrication of 7th-Order Chebyshev Filter (MZI)
+*Feb 2024 – Jul 2024*
 
-- 🧠 **Quantum Computing** – C-DAC Hyderabad *(Jun 2025)*  
-- 🌾 **AI/ML for Crop Mapping** – IIRS–ISRO  
-- 🛰️ **Geodata Processing using ML** – IIRS–ISRO  
-- 💼 **TCS iON Career Edge – Young Professional**
+Academic research project covering the full engineering lifecycle of a higher-order Mach-Zehnder interferometer bandpass filter — from optical simulation and layout to physical fabrication and variability analysis. Monte Carlo tolerance analysis quantified the impact of EBL process variation on filter response. Conducted under Prof. Subhash Arya at the Lightwave Communication Laboratory, NEHU.
 
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=trek2terminal&theme=algolia&no-frame=true&row=1&column=7" />
-</p>
+`Lumerical FDTD` `KLayout` `Silicon-on-Insulator` `EBL` `MATLAB` `Python`
 
 ---
 
-## 📈 GitHub Stats
+### Secure Online Exam Management System
+*2025*
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=trek2terminal&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trek2terminal&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
-</p>
+Full-stack exam platform with session-locked timed exams, server-side timer enforcement, auto-grading, and an admin dashboard for question bank management and result tracking. Built incrementally with documented QA passes, a UI redesign phase, and a structured deployment pipeline.
 
----
+`Python` `Flask` `JavaScript` `SQLAlchemy` `Docker`
 
-## 🔭 Currently Learning
-
-- ⚛️ Quantum Computing & QML  
-- ⛓️ Model retraining with real-time behavior logs  
-- 🧠 Few-shot learning & transformer models  
-- 🚀 Deploying full-stack ML apps with scalable architecture  
+[View Repository](https://github.com/trek2terminal/exam_system)
 
 ---
 
-## 🔧 Tools I Work With
+## GitHub Activity
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Editor-PyCharm-green?style=flat-square&logo=pycharm&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framework-Flask-lightgrey?style=flat-square&logo=flask" />
-  <img src="https://img.shields.io/badge/ML-TensorFlow-orange?style=flat-square&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloud-Colab-yellow?style=flat-square&logo=googlecolab&logoColor=black" />
-</p>
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=trek2terminal&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=00d4ff&icon_color=7c3aed&text_color=a8b6c9&bg_color=0c1324" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trek2terminal&layout=compact&theme=tokyonight&hide_border=true&title_color=00d4ff&text_color=a8b6c9&bg_color=0c1324" width="49%"/>
 
-## 🎨 Fun Zone
+</div>
 
-- 🎧 Music while debugging is sacred  
-- 📷 Passion for capturing landscapes & AI art  
-- 🍳 Cooking experimental fusion recipes  
-- 🚀 Love creating systems that adapt like humans  
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=trek2terminal&theme=tokyonight&hide_border=true&background=0c1324&ring=00d4ff&fire=7c3aed&currStreakLabel=00d4ff&sideLabels=a8b6c9&dates=6f7f96" width="65%"/>
+
+</div>
 
 ---
 
-## 🔥 My GitHub Activity
+## Certifications
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=trek2terminal&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=trek2terminal&show_icons=true&theme=radical&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trek2terminal&layout=compact&theme=radical&hide_border=true" width="48%"/>
-</p>
+| Certification | Issuer | Date |
+|---|---|---|
+| Advanced Certification in HPC-AI | C-DAC, Guwahati | Mar–Aug 2025 |
+| Quantum Computing | C-DAC, Hyderabad | Jun 2025 |
+| AI/ML for Crop Acreage Mapping | IIRS, ISRO | Apr 2025 |
+| Geodata Processing with Python & ML | IIRS, ISRO | Mar 2025 |
+| Career Edge — Young Professional | TCS iON | Feb 2025 |
 
 ---
 
-<p align="center">
-  🔥 Thanks for scrolling! Let’s collaborate, connect, and build something impactful together! 🚀  
-</p>
+## Education
+
+| Qualification | Institution | Year | Result |
+|---|---|---|---|
+| Advanced Certification, HPC-AI | C-DAC, Guwahati | 2025 | 67.08% |
+| B.Tech, Electronics & Communication Engg. | NEHU, Shillong | 2020–2024 | CGPA 7.37 |
+| Intermediate, CBSE | S.D.D.K.B Mission School, Agartala | 2018–2020 | 69.8% |
+| Matriculation, TBSE | Henry Derozio Academy H.S School | 2017–2018 | 75% |
+
+---
+
+## Currently
+
+- Coordinating delivery at Codebucket Solutions across development and stakeholder workflows
+- Deepening ML evaluation practice — model comparison, validation methodology, retraining pipelines
+- Exploring lightweight transformer architectures and few-shot learning for low-resource settings
+- Reading into quantum ML and its realistic near-term applicability
+
+---
+
+<div align="center">
+
+Open to **AI/ML engineering roles**, **technical coordination positions**, and **applied research collaborations**.
+
+*English &nbsp;·&nbsp; Hindi &nbsp;·&nbsp; Bengali*
+
+</div>
