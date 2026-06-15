@@ -1,69 +1,73 @@
-# Subradeep Das
+# Hi, I'm Subradeep.
 
 Machine Learning Engineer | Project Coordinator | Electronics & Communication Engineer
 
-I enjoy building practical systems that combine machine learning, software engineering, and real-world problem solving. My work spans AI applications, full-stack web development, behavioral analytics, and system design, with a strong interest in taking ideas from experimentation to deployment.
+I build software systems that combine machine learning, data, and practical engineering.
 
-Currently, I work as a Project Coordinator while continuing to develop projects focused on machine learning, automation, and intelligent decision-making systems. My goal is to build solutions that are not only technically sound but also useful, maintainable, and scalable.
+My background is in Electronics and Communication Engineering, followed by specialized training in High Performance Computing and Artificial Intelligence (HPC-AI). Over time, my interests have evolved from academic projects to building complete systems that solve real problems through machine learning, automation, and software engineering.
 
----
-
-## About Me
-
-* Advanced Certification in HPC-AI from C-DAC Guwahati
-* B.Tech in Electronics & Communication Engineering from North-Eastern Hill University
-* Experience coordinating software and AI-driven projects
-* Interested in Machine Learning, MLOps, System Design, and Applied AI
-* Strong focus on practical implementation rather than theoretical demonstrations
+Currently, I work as a Project Coordinator while continuing to develop AI-powered applications and backend systems. I am particularly interested in the gap between experimentation and deployment—where models become products, workflows become systems, and engineering decisions directly impact usability, reliability, and long-term maintainability.
 
 ---
 
-## Featured Projects
+## What I'm Working On
 
-### Hybrid IRCTC Bot Detection & Demand Prediction System
+* Building practical machine learning systems
+* Designing AI-powered web applications
+* Exploring behavioral analytics and intelligent decision-support systems
+* Learning scalable deployment and MLOps practices
+* Improving software architecture and system design skills
 
-A machine learning-driven railway booking prototype designed to distinguish between human users and automated bots using behavioral analytics, CAPTCHA validation, and predictive models.
+---
+
+## Selected Projects
+
+### Hybrid IRCTC Bot Detection & Demand Prediction
+
+A railway booking platform designed to distinguish genuine users from automated bots using behavioral analytics and machine learning.
 
 **Highlights**
 
-* Behavioral biometrics based bot detection
+* Behavioral biometrics-based bot detection
 * TensorFlow and Scikit-learn models
-* Flask-based web application
-* Demand forecasting and train confirmation prediction
-* Automated retraining workflow using collected login data
+* CAPTCHA verification workflow
+* Train demand analytics
+* Confirmation prediction models
+* Continuous retraining strategy
 
 ---
 
 ### Secure Online Exam Management System
 
-A full-stack examination platform developed to manage student assessments, examination workflows, result processing, and administrative controls.
+A full-stack examination platform developed to manage the complete assessment lifecycle from examination creation to result generation.
 
 **Highlights**
 
-* Role-based administration
-* Timed examination sessions
+* Student and administrator workflows
+* Timed examinations
+* Session security and validation
 * Question bank management
-* Automated result generation
-* Modular backend architecture
-* Deployment-ready structure
+* Result processing and reporting
+* Deployment-ready architecture
 
 ---
 
-### Higher-Order Chebyshev MZI Filter Design
+### Higher-Order Chebyshev MZI Filter
 
-A photonics research project completed under the Lightwave Communication Laboratory focused on the design and analysis of higher-order optical filters.
+A photonics research project completed through the Lightwave Communication Laboratory at North-Eastern Hill University.
 
 **Highlights**
 
-* Silicon photonics design workflow
-* Lumerical simulation
+* Optical filter design
+* Lumerical simulations
 * KLayout implementation
-* Monte Carlo variability analysis
+* Silicon photonics workflow
+* Monte Carlo analysis
 * Fabrication-aware design methodology
 
 ---
 
-## Technical Skills
+## Technical Areas
 
 ### Programming Languages
 
@@ -71,15 +75,28 @@ Python • SQL • Java • R • Bash
 
 ### Machine Learning & AI
 
-TensorFlow • PyTorch • Keras • Scikit-learn • XGBoost • CNNs • RNNs • Transfer Learning
+TensorFlow • PyTorch • Keras • Scikit-learn • XGBoost • CNNs • Transfer Learning
 
-### Data Science & Analytics
+### Data & Analytics
 
 Pandas • NumPy • Statistical Analysis • Matplotlib • Plotly • Seaborn
 
-### Development & Tools
+### Development & Infrastructure
 
 Flask • Docker • Linux • Nginx • Git • Jupyter Notebook • VS Code
+
+---
+
+## GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=trek2terminal&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=trek2terminal&theme=transparent&hide_border=true" height="170" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trek2terminal&layout=compact&theme=transparent&hide_border=true" height="170" alt="Top Languages" />
+</p>
 
 ---
 
@@ -90,9 +107,9 @@ Flask • Docker • Linux • Nginx • Git • Jupyter Notebook • VS Code
 **Codebucket Solutions Pvt. Ltd.**
 *November 2025 – Present*
 
-* Coordinate software and AI-focused project activities
-* Track deliverables, timelines, and stakeholder communication
-* Support execution, documentation, and deployment planning
+* Coordinate software and AI-driven project activities
+* Manage project timelines, documentation, and stakeholder communication
+* Support execution and delivery of technology-focused initiatives
 
 ### Project Intern
 
@@ -100,52 +117,51 @@ Flask • Docker • Linux • Nginx • Git • Jupyter Notebook • VS Code
 *August 2025 – November 2025*
 
 * Worked on machine learning and software development tasks
-* Developed structured and reproducible technical workflows
-* Contributed to documentation and project implementation activities
+* Developed structured engineering workflows and documentation practices
+* Contributed to project implementation and technical delivery
 
 ---
 
 ## Education
 
-| Qualification                                   | Institution                                    |
-| ----------------------------------------------- | ---------------------------------------------- |
-| Advanced Certification in HPC-AI                | C-DAC Guwahati                                 |
-| B.Tech, Electronics & Communication Engineering | North-Eastern Hill University                  |
-| Intermediate (CBSE)                             | Swami Dhananjoy Das Kathia Baba Mission School |
-| Matriculation (TBSE)                            | Henry Derozio Academy H.S. School              |
-
----
-
-## Certifications
-
-* Geodata Processing with Python and Machine Learning — IIRS, ISRO
-* AI/ML for Crop Acreage Mapping — IIRS, ISRO
-* Quantum Computing — C-DAC Hyderabad
-* TCS iON Career Edge – Young Professional
+| Qualification                                   | Institution                   |
+| ----------------------------------------------- | ----------------------------- |
+| Advanced Certification in HPC-AI                | C-DAC Guwahati                |
+| B.Tech, Electronics & Communication Engineering | North-Eastern Hill University |
 
 ---
 
 ## Current Focus
 
 * Applied Machine Learning Systems
-* Model Deployment and Monitoring
 * AI-powered Web Applications
+* MLOps and Model Monitoring
 * Behavioral Analytics
-* HPC-AI Workflows
-* System Design and Scalable Architectures
+* Scalable Software Architecture
+* Intelligent Decision Support Systems
+
+---
+
+## Beyond Technology
+
+Outside of engineering, I enjoy learning new languages, travelling, and exploring how complex systems—technical or otherwise—are designed, organized, and improved over time.
 
 ---
 
 ## Connect
 
-Portfolio: https://trek2terminal.github.io
+**Portfolio**
+https://trek2terminal.github.io
 
-LinkedIn: https://linkedin.com/in/subradeepdas02
+**LinkedIn**
+https://linkedin.com/in/subradeepdas02
 
-GitHub: https://github.com/trek2terminal
+**GitHub**
+https://github.com/trek2terminal
 
-Email: [subradeepdas24@gmail.com](mailto:subradeepdas24@gmail.com)
+**Email**
+[subradeepdas24@gmail.com](mailto:subradeepdas24@gmail.com)
 
 ---
 
-> I believe good engineering is not only about building models or writing code. It is about creating reliable systems that solve real problems and continue to provide value long after deployment.
+> I am interested in building systems that are practical, maintainable, and capable of creating measurable impact. Whether through machine learning, software engineering, or project execution, I enjoy turning ideas into solutions that people can actually use.
