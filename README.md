@@ -1,126 +1,151 @@
-<div align="center">
-
 # Subradeep Das
 
-**AI/ML Engineer &nbsp;·&nbsp; Technical Project Coordinator &nbsp;·&nbsp; ECE Graduate**
+Machine Learning Engineer | Project Coordinator | Electronics & Communication Engineer
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-trek2terminal.github.io-00d4ff?style=flat-square&labelColor=070d1a)](https://trek2terminal.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-subradeepdas02-0077b5?style=flat-square&logo=linkedin&logoColor=white&labelColor=070d1a)](https://www.linkedin.com/in/subradeepdas02/)
-[![Email](https://img.shields.io/badge/Email-subradeepdas24@gmail.com-00d4ff?style=flat-square&logo=gmail&logoColor=white&labelColor=070d1a)](mailto:subradeepdas24@gmail.com)
-[![GitHub followers](https://img.shields.io/github/followers/trek2terminal?style=flat-square&logo=github&labelColor=070d1a&color=7c3aed)](https://github.com/trek2terminal)
+I enjoy building practical systems that combine machine learning, software engineering, and real-world problem solving. My work spans AI applications, full-stack web development, behavioral analytics, and system design, with a strong interest in taking ideas from experimentation to deployment.
 
-</div>
+Currently, I work as a Project Coordinator while continuing to develop projects focused on machine learning, automation, and intelligent decision-making systems. My goal is to build solutions that are not only technically sound but also useful, maintainable, and scalable.
 
 ---
 
-## Overview
+## About Me
 
-I am an AI/ML engineer and technical project coordinator based in Agartala, Tripura. My background is Electronics and Communication Engineering (NEHU Shillong), extended by Advanced HPC-AI training at C-DAC Guwahati and applied project experience at Codebucket Solutions.
-
-My focus is on the full path from problem framing to deployment: understanding what a system needs to do, selecting and evaluating the right model or architecture, building with documentation and reproducibility in mind, and coordinating delivery across technical and non-technical stakeholders. I am particularly interested in ML systems that operate on behavioral data, geospatial signals, and research-grade engineering constraints.
-
----
-
-## Technical Stack
-
-```text
-Languages        Python · R · SQL · Java · Bash
-ML / Deep        TensorFlow · PyTorch · Keras · scikit-learn · XGBoost
-                 CNN · RNN/LSTM · Transfer Learning · Model Optimization
-Data             Pandas · NumPy · Matplotlib · Seaborn · Plotly · ggplot2
-Deployment       Flask · Docker · Nginx · Linux · Git
-Research         Lumerical · KLayout · Silicon Photonics · MATLAB
-Domain           HPC · Quantum Computing · Remote Sensing · Signal Processing
-```
+* Advanced Certification in HPC-AI from C-DAC Guwahati
+* B.Tech in Electronics & Communication Engineering from North-Eastern Hill University
+* Experience coordinating software and AI-driven projects
+* Interested in Machine Learning, MLOps, System Design, and Applied AI
+* Strong focus on practical implementation rather than theoretical demonstrations
 
 ---
 
-## Selected Work
+## Featured Projects
 
-### Hybrid IRCTC Bot-Detection & Train Search System
-*Mar 2025 – Aug 2025*
+### Hybrid IRCTC Bot Detection & Demand Prediction System
 
-A production-style ML application combining behavioral biometrics with a TensorFlow DNN classifier to distinguish humans from automated traffic in real time. Layered on a train-search interface with demand heatmaps, punctuality scoring, and a Random Forest model estimating confirmation probability. Built with auto-retraining pipelines, privacy-aware telemetry, and admin audit logging.
+A machine learning-driven railway booking prototype designed to distinguish between human users and automated bots using behavioral analytics, CAPTCHA validation, and predictive models.
 
-`Python` `TensorFlow` `scikit-learn` `Flask` `Docker` `Nginx`
+**Highlights**
 
-[View Repository](https://github.com/trek2terminal/IRCTC_Bot_Detection_And_Demand_Prediction)
-
----
-
-### Design & Fabrication of 7th-Order Chebyshev Filter (MZI)
-*Feb 2024 – Jul 2024*
-
-Academic research project covering the full engineering lifecycle of a higher-order Mach-Zehnder interferometer bandpass filter — from optical simulation and layout to physical fabrication and variability analysis. Monte Carlo tolerance analysis quantified the impact of EBL process variation on filter response. Conducted under Prof. Subhash Arya at the Lightwave Communication Laboratory, NEHU.
-
-`Lumerical FDTD` `KLayout` `Silicon-on-Insulator` `EBL` `MATLAB` `Python`
+* Behavioral biometrics based bot detection
+* TensorFlow and Scikit-learn models
+* Flask-based web application
+* Demand forecasting and train confirmation prediction
+* Automated retraining workflow using collected login data
 
 ---
 
 ### Secure Online Exam Management System
-*2025*
 
-Full-stack exam platform with session-locked timed exams, server-side timer enforcement, auto-grading, and an admin dashboard for question bank management and result tracking. Built incrementally with documented QA passes, a UI redesign phase, and a structured deployment pipeline.
+A full-stack examination platform developed to manage student assessments, examination workflows, result processing, and administrative controls.
 
-`Python` `Flask` `JavaScript` `SQLAlchemy` `Docker`
+**Highlights**
 
-[View Repository](https://github.com/trek2terminal/exam_system)
-
----
-
-## GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=trek2terminal&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=00d4ff&icon_color=7c3aed&text_color=a8b6c9&bg_color=0c1324" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trek2terminal&layout=compact&theme=tokyonight&hide_border=true&title_color=00d4ff&text_color=a8b6c9&bg_color=0c1324" width="49%"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=trek2terminal&theme=tokyonight&hide_border=true&background=0c1324&ring=00d4ff&fire=7c3aed&currStreakLabel=00d4ff&sideLabels=a8b6c9&dates=6f7f96" width="65%"/>
-
-</div>
+* Role-based administration
+* Timed examination sessions
+* Question bank management
+* Automated result generation
+* Modular backend architecture
+* Deployment-ready structure
 
 ---
 
-## Certifications
+### Higher-Order Chebyshev MZI Filter Design
 
-| Certification | Issuer | Date |
-|---|---|---|
-| Advanced Certification in HPC-AI | C-DAC, Guwahati | Mar–Aug 2025 |
-| Quantum Computing | C-DAC, Hyderabad | Jun 2025 |
-| AI/ML for Crop Acreage Mapping | IIRS, ISRO | Apr 2025 |
-| Geodata Processing with Python & ML | IIRS, ISRO | Mar 2025 |
-| Career Edge — Young Professional | TCS iON | Feb 2025 |
+A photonics research project completed under the Lightwave Communication Laboratory focused on the design and analysis of higher-order optical filters.
+
+**Highlights**
+
+* Silicon photonics design workflow
+* Lumerical simulation
+* KLayout implementation
+* Monte Carlo variability analysis
+* Fabrication-aware design methodology
+
+---
+
+## Technical Skills
+
+### Programming Languages
+
+Python • SQL • Java • R • Bash
+
+### Machine Learning & AI
+
+TensorFlow • PyTorch • Keras • Scikit-learn • XGBoost • CNNs • RNNs • Transfer Learning
+
+### Data Science & Analytics
+
+Pandas • NumPy • Statistical Analysis • Matplotlib • Plotly • Seaborn
+
+### Development & Tools
+
+Flask • Docker • Linux • Nginx • Git • Jupyter Notebook • VS Code
+
+---
+
+## Experience
+
+### Project Coordinator
+
+**Codebucket Solutions Pvt. Ltd.**
+*November 2025 – Present*
+
+* Coordinate software and AI-focused project activities
+* Track deliverables, timelines, and stakeholder communication
+* Support execution, documentation, and deployment planning
+
+### Project Intern
+
+**NIELIT Agartala**
+*August 2025 – November 2025*
+
+* Worked on machine learning and software development tasks
+* Developed structured and reproducible technical workflows
+* Contributed to documentation and project implementation activities
 
 ---
 
 ## Education
 
-| Qualification | Institution | Year | Result |
-|---|---|---|---|
-| Advanced Certification, HPC-AI | C-DAC, Guwahati | 2025 | 67.08% |
-| B.Tech, Electronics & Communication Engg. | NEHU, Shillong | 2020–2024 | CGPA 7.37 |
-| Intermediate, CBSE | S.D.D.K.B Mission School, Agartala | 2018–2020 | 69.8% |
-| Matriculation, TBSE | Henry Derozio Academy H.S School | 2017–2018 | 75% |
+| Qualification                                   | Institution                                    |
+| ----------------------------------------------- | ---------------------------------------------- |
+| Advanced Certification in HPC-AI                | C-DAC Guwahati                                 |
+| B.Tech, Electronics & Communication Engineering | North-Eastern Hill University                  |
+| Intermediate (CBSE)                             | Swami Dhananjoy Das Kathia Baba Mission School |
+| Matriculation (TBSE)                            | Henry Derozio Academy H.S. School              |
 
 ---
 
-## Currently
+## Certifications
 
-- Coordinating delivery at Codebucket Solutions across development and stakeholder workflows
-- Deepening ML evaluation practice — model comparison, validation methodology, retraining pipelines
-- Exploring lightweight transformer architectures and few-shot learning for low-resource settings
-- Reading into quantum ML and its realistic near-term applicability
+* Geodata Processing with Python and Machine Learning — IIRS, ISRO
+* AI/ML for Crop Acreage Mapping — IIRS, ISRO
+* Quantum Computing — C-DAC Hyderabad
+* TCS iON Career Edge – Young Professional
 
 ---
 
-<div align="center">
+## Current Focus
 
-Open to **AI/ML engineering roles**, **technical coordination positions**, and **applied research collaborations**.
+* Applied Machine Learning Systems
+* Model Deployment and Monitoring
+* AI-powered Web Applications
+* Behavioral Analytics
+* HPC-AI Workflows
+* System Design and Scalable Architectures
 
-*English &nbsp;·&nbsp; Hindi &nbsp;·&nbsp; Bengali*
+---
 
-</div>
+## Connect
+
+Portfolio: https://trek2terminal.github.io
+
+LinkedIn: https://linkedin.com/in/subradeepdas02
+
+GitHub: https://github.com/trek2terminal
+
+Email: [subradeepdas24@gmail.com](mailto:subradeepdas24@gmail.com)
+
+---
+
+> I believe good engineering is not only about building models or writing code. It is about creating reliable systems that solve real problems and continue to provide value long after deployment.
