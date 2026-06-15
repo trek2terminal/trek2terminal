@@ -156,9 +156,6 @@ https://trek2terminal.github.io
 **LinkedIn**
 https://linkedin.com/in/subradeepdas02
 
-**GitHub**
-https://github.com/trek2terminal
-
 **Email**
 [subradeepdas24@gmail.com](mailto:subradeepdas24@gmail.com)
 
